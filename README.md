@@ -3,6 +3,7 @@
 This project is a C-like interpreter for the Monkey programming language, a custom language designed for educational purposes. The Monkey language is simple yet powerful, making it an excellent tool for learning about interpreters and language design.
 
 ## Features
+
 - Lexical analysis (tokenization)
 - Parsing (abstract syntax tree generation)
 - Evaluation (interpretation of the AST)
@@ -20,6 +21,8 @@ This project is a C-like interpreter for the Monkey programming language, a cust
 - GO 1.22.4 or later
 - NPM 10.8.2
 - Husky
+- Bazelisk
+- Buildfier
 
 ### Steps
 
@@ -34,6 +37,7 @@ This project is a C-like interpreter for the Monkey programming language, a cust
 After compilation, you can run the Monkey interpreter in two modes:
 
 1. REPL (Read-Eval-Print Loop) mode:
+
    ```
    ./monkey
    ```

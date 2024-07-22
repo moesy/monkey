@@ -18,6 +18,8 @@ This project is a C-like interpreter for the Monkey programming language, a cust
 ### Prerequisites
 
 - GO 1.22.4 or later
+- NPM 10.8.2
+- Husky
 
 ### Steps
 

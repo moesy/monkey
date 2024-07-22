@@ -27,15 +27,6 @@ This project is a C-like interpreter for the Monkey programming language, a cust
    cd monkey
    ```
 
-2. Compile the interpreter:
-   ```
-   make
-   ```
-   Or, if you don't have Make installed:
-   ```
-   gcc -o monkey src/*.c -Iinclude
-   ```
-
 ## Usage
 
 After compilation, you can run the Monkey interpreter in two modes:
